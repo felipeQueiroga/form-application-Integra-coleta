@@ -1,0 +1,11 @@
+C:\Users\Fabiano\source\repos\IntegraColeta\IntegraColeta\bin\Debug\IntegraColeta.exe
+C:\Users\Fabiano\source\repos\IntegraColeta\IntegraColeta\bin\Debug\IntegraColeta.exe.config
+C:\Users\Fabiano\source\repos\IntegraColeta\IntegraColeta\obj\Debug\IntegraColeta.dashboard.resources
+C:\Users\Fabiano\source\repos\IntegraColeta\IntegraColeta\obj\Debug\IntegraColeta.Login.resources
+C:\Users\Fabiano\source\repos\IntegraColeta\IntegraColeta\obj\Debug\IntegraColeta.Properties.Resources.resources
+C:\Users\Fabiano\source\repos\IntegraColeta\IntegraColeta\obj\Debug\IntegraColeta.csproj.GenerateResource.cache
+C:\Users\Fabiano\source\repos\IntegraColeta\IntegraColeta\obj\Debug\IntegraColeta.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\source\repos\IntegraColeta\IntegraColeta\obj\Debug\IntegraColeta.exe
+C:\Users\Fabiano\source\repos\IntegraColeta\IntegraColeta\obj\Debug\IntegraColeta.pdb
+C:\Users\Fabiano\source\repos\IntegraColeta\IntegraColeta\obj\Debug\IntegraColeta.csprojAssemblyReference.cache
+C:\Users\Fabiano\source\repos\IntegraColeta\IntegraColeta\bin\Debug\IntegraColeta.pdb
