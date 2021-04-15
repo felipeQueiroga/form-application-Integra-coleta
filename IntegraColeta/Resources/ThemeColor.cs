@@ -1,9 +1,13 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace IntegraColeta
+namespace IntegraColeta.Resources
 {
-    public class ThemeColor
+    public static class ThemeColor
     {
         public static Color PrimaryColor { get; set; }
         public static Color SecondaryColor { get; set; }
@@ -55,7 +59,6 @@ namespace IntegraColeta
                 blue = (255 - blue) * correctionFactor + blue;
             }
             return Color.FromArgb(color.A, (byte)red, (byte)green, (byte)blue);
-
         }
     }
 }

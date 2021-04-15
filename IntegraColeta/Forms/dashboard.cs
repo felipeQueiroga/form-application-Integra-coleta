@@ -1,4 +1,5 @@
-﻿using System;
+﻿using IntegraColeta.Resources;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -94,8 +95,8 @@ namespace IntegraColeta
             childForm.TopLevel = false;
             childForm.FormBorderStyle = FormBorderStyle.None;
             childForm.Dock = DockStyle.Fill;
-            //this.panelDesktopPane.Controls.Add(childForm);
-            //this.panelDesktopPane.Tag = childForm;
+            this.panelDesktopPane.Controls.Add(childForm);
+            this.panelDesktopPane.Tag = childForm;
             childForm.BringToFront();
             childForm.Show();
             lblTitle.Text = childForm.Text;
